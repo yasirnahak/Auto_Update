@@ -1,3 +1,3 @@
 Version=5.5
-Files=prosoft.exe,account_master.pbd,versionupdator.exe,main.pbd,pro_ledger.pbd,purchase.pbd,quotation.pbd,registration.pbd,service.pbd,stocks.pbd,versionupdator.pbd,prosoft.pbd,payment.pbd
+Files=prosoft.exe,account_master.pbd,versionupdator.exe,main.pbd,pro_ledger.pbd,purchase.pbd,quotation.pbd,registration.pbd,service.pbd,stocks.pbd,versionupdator.pbd,prosoft.pbd,payment.pbd,server configuration.exe,confsrvr.pbd,probuilder.pbd
 DownloadURL=https://raw.githubusercontent.com/yasirnaha0707/Auto_Update/main/
